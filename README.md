@@ -1,8 +1,8 @@
 # Searchable Point Map template v1.4 with Google Maps and Fusion Tables
 
 ## Demos
-- http://Jeff-Rosen.github.io/fusion-map-point/index.html
-- and index_iframe.html embedded in test page http://Jeff-Rosen.github.io/fusion-map-point/index_iframe.html
+- http://jeff-rosen.github.io/fusion-map-point/index.html
+- and index_iframe.html embedded in test page http://jeff-rosen.github.io/fusion-map-point/index_iframe.html
 - with Google Fusion Table points of SAVR Resources https://www.google.com/fusiontables/DataSource?docid=16LdINxLkOQdg_sqtdAt__pfxa7nlF3lO0oI3ij_j
 
 ## Create your own
